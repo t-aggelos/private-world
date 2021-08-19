@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2021-08-19 08:34:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2021-08-19 05:39:05 +0300"
@@ -158,6 +164,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2021-08-19 05:37:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2021-08-19 08:35:22 +0300"
     },
     "done": true
   },
@@ -562,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2021-08-19 08:34:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-08-19 03:53:45 +0300"
@@ -724,6 +742,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-08-19 04:06:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2021-08-19 08:34:44 +0300"
     },
     "done": true
   },
